@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A defence of the doctrines of the Holy Trinity and incarnation placed in their due light in answer to a letter, written to the clergy of both universities.</title>
+            <author>Bury, Arthur, 1624-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30666</idno>
+            <idno type="STC">Wing B6194</idno>
+            <idno type="STC">ESTC R37522</idno>
+            <idno type="EEBO-CITATION">16966548</idno>
+            <idno type="OCLC">ocm 16966548</idno>
+            <idno type="VID">105534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1610:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A defence of the doctrines of the Holy Trinity and incarnation placed in their due light in answer to a letter, written to the clergy of both universities.</title>
+                  <author>Bury, Arthur, 1624-1713.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Bury by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: pages cropped with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trinity.</term>
+               <term>Socinianism --  Controversial literature.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:105534:1"/>
+            <pb n="1" facs="tcp:105534:1"/>
+            <head>A <hi>Defence</hi> of the <hi>Doctrines</hi> of the <hi>HOLY TRINITY,</hi> and <hi>Incarnation</hi> Placed in their due Light.</head>
+            <head type="sub">In Anſwer to a <hi>Letter,</hi> written to the <hi>Clergy</hi> of both <g ref="char:V">Ʋ</g>niverſities.</head>
+            <p>THat there is <hi>One is only True God,</hi> is moſt Frequently and Earneſtly inculcated in <hi>the H. Scripture</hi> in both <hi>Teſta<g ref="char:EOLhyphen"/>ments:</hi> yet doth the ſame <hi>Scripture</hi> give the title of <hi>God</hi> to Three diſtinct <hi>Perſons:</hi> and to reconcile ſuch an <hi>Unity</hi> with ſuch a <hi>Trinity,</hi> is the preſent endeavour of many pens; among which ſome have been ſo unhappy, as to produce nothing but a more irreconcileable enmity between themſelves.</p>
+            <p>To avoid the undecencies into which the diſpute hath lately tranſ<g ref="char:EOLhyphen"/>ported (eſpecially) Two great Doctors, I chooſe to follow a greater than them Both; who ſhunning the <hi>Elenctical</hi> way,) hath caſt his ſenti<g ref="char:EOLhyphen"/>ments into 28 <hi>Propoſitions;</hi> and I preſume to build on upon his foun<g ref="char:EOLhyphen"/>dation. For it is eaſier to ſtop the mouth of an <hi>Adverſary,</hi> than to ſatisfie an <hi>Inquiſitive mind,</hi> deſirous to ſee the Truth, not only <hi>De<g ref="char:EOLhyphen"/>fended,</hi> but poſitively <hi>Stabliſhed.</hi>
+            </p>
+            <p>I ſhall not recite all the 28 <hi>Propoſitions,</hi> ſuppoſing it ſufficient to re<g ref="char:EOLhyphen"/>duce them to this ſummary, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>The name of God is uſed in Scripture, in more ſences than one.</hi>
+            </p>
+            <p>
+               <hi>Self exiſtence is the first and higheſt of all Perfections: and in the higheſt ſence belongs to the Father alone.</hi>
+            </p>
+            <p>
+               <hi>The other two Perſons derive their beings from the firſt, and therefore are not beings Abſolutely Perfect in reference to their manner of Exiſtence.</hi>
+            </p>
+            <p>
+               <hi>The Only ſelf existent may derive all other Perfections, but That of ſelf-existence upon other beings; each whereof muſt have a right to the name of God in a ſence next to That which is peculiar to the Father.</hi>
+            </p>
+            <p>
+               <hi>If ſuch Being proceed from the original ſelf-existent by way of Natural and Neceſſary Emanation, they are Equal in all other Perfections: and it is ſo far from a Contradiction to ſay, they are Equally Eternal, that it is a flat Contradiction to ſay the contrary.</hi>
+            </p>
+            <pb n="2" facs="tcp:105534:2"/>
+            <p>
+               <hi>This giveth the ſecond and third Perſons their due honor, without robbing the Father of what is due to him as the Original of their Divinity.</hi>
+            </p>
+            <p>To theſe <hi>Propoſitions</hi> of this judicious author, I add</p>
+            <p n="1">1. The <hi>Second and Third Perſon</hi> proceed from the <hi>first</hi> by way of <hi>Natural and Neceſſary Emanation:</hi> and when our Church ſpeaketh of <hi>Generation,</hi> &amp; <hi>Proceeding,</hi> ſhe regards not o much <hi>Exactneſs</hi> of Expreſſion, as the <hi>Capacity</hi> of the Vulgar; who elſe might take them to be Creatures.</p>
+            <p n="2">2. <hi>Spiritual Emanations</hi> are analogous to <hi>Corporeal;</hi> yet not ſub<g ref="char:EOLhyphen"/>ject to all the ſame laws, They come from their <hi>Originals,</hi> as <hi>Conſe<g ref="char:EOLhyphen"/>quents</hi> do from their <hi>Antecedents,</hi> from which they ſo proceed, as ſtill to remain in them, yet not as Parts of them: <hi>E. G.</hi> Let the <hi>Antecedent</hi> be This, viz. <hi>God is a being infinitely perfect.</hi> From This <hi>Antecedent</hi> neceſſarily proceed theſe <hi>Conſequents</hi> viz. <hi>God is infinite in Wiſdom,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>God is infinite in Power,</hi> Of theſe we may more Truely then Pro<g ref="char:EOLhyphen"/>perly ſay, they are <hi>begotten</hi> or <hi>proceed</hi> from the <hi>Antecedent;</hi> yet are they eternally contained in it, nor is the Evidence of the firſt Diminiſhed, but Confirmed, by the confident belief of the other two: nor (for the ſame reaſon) is the honour of the Father leſſened by what is paid to either of the other.</p>
+            <p n="3">3. The <hi>ſame Being</hi> may have many <hi>Properties,</hi> which do not make it ſo many ſeveral <hi>Beings,</hi> but <hi>One</hi> ſo much the more <hi>Perfect,</hi> We doubt not but <hi>God</hi> hath many Perfections, whereof we cannot have the leaſt Idea.</p>
+            <p n="4">4. All that we can know or need to believe concerning <hi>God,</hi> is comprehended in <hi>Three Properties.</hi> 1. <hi>Original Being</hi> is <hi>Father</hi> of All other Beings: This implieth <hi>Goodneſs, Mercy, Infinity, Eternity, All-ſufficiency, Justice,</hi> &amp;c. 2. A Perfect being muſt be a <hi>Thinking Mind,</hi> the <hi>Word</hi> is the immediate <hi>Iſſue</hi> and exact <hi>Image</hi> of the <hi>Mind,</hi> This Implieth <hi>Wiſdom, Veracity, Omniſcience,</hi> &amp;c. 3. <hi>Goodneſs and Wiſdom</hi> would be Uſeleſs without <hi>Power</hi> to execute; and the H. G. is the doer of <hi>wonderful works,</hi> and the <hi>mover of our Minds.</hi> This is <hi>Power, Providence</hi> the <hi>Sanctifier, Comforter,</hi> &amp;c.</p>
+            <p n="5">5. Divine <hi>Properties</hi> are not <hi>Concretes,</hi> which receive their Beings by <hi>Participation</hi> from ſome <hi>Univerſal Nature:</hi> but are themſelves <hi>That Univerſal Nature,</hi> from which all <hi>Particulars</hi> receive whatever <hi>Meaſures</hi> they enjoy. <hi>St. John,</hi> to expreſs the Infinity of <hi>Gods Love,</hi> ſpeaketh in the <hi>Abstract, God is love, and he that dwelleth in love, dwelleth in God,</hi> and <hi>God in Him:</hi> and if we will ſpeak exactly, we muſt ſpeak of all the reſt in the ſame dialect.</p>
+            <p n="6">6. <hi>Concretes,</hi> which receive by <hi>Participation,</hi> enjoy only their <hi>Meaſure.</hi> But the <hi>Univerſal Nature</hi> is <hi>Immenſe;</hi> That which is but an <hi>Adjunct</hi> in <hi>Creatures,</hi> is <hi>Eſſence</hi> in <hi>God:</hi> and every <hi>Property</hi> is <hi>God Himſelf</hi> under its peculiar <hi>Idea.</hi>
+            </p>
+            <pb n="3" facs="tcp:105534:2"/>
+            <p n="7">7. Though the Second and third <hi>Properties</hi> be not equal to the <hi>First</hi> in point of <hi>Independence,</hi> in a <hi>Phyſical</hi> ſence; becauſe they derive their being from him; yet they are ſo, in a <hi>Logical</hi> ſence; becauſe the <hi>Firſt</hi> can no more be without either of <hi>Them,</hi> than either of <hi>Them</hi> can be with<g ref="char:EOLhyphen"/>out the <hi>First.</hi> We therefore do not rob the <hi>Father,</hi> when we adore either of <hi>Them,</hi> becauſe we do not <hi>Separate,</hi> (though we <hi>Abſtract</hi>) them in our Minds. Yea, ſome of the <hi>Christian Fathers</hi> have not thought it neceſſary to be exact, even in <hi>Abſtracting:</hi> for they ſometimes aſcribe to One, ſuch acts as properly belong to Another.</p>
+            <p n="8">8. The belief of ſuch a <hi>Trinity</hi> is ſafe from Both <hi>Extreams.</hi> On the one ſide, it is out of danger of <hi>Tritheiſm,</hi> and on the other of <hi>Trifleing,</hi> But <hi>Three Spirits</hi> ſound ſo like <hi>three Gods,</hi> as to affright a timorous mind. and Three <hi>Modes</hi> or <hi>Internal Relations</hi> make ſuch a <hi>Barren Speculation,</hi> as cannot juſtly pretend to any place in our <hi>Devotion,</hi> or in That <hi>Scripture, which is</hi> therefore <hi>given by inſpiration of God, becauſe it is profit<g ref="char:EOLhyphen"/>able,</hi> &amp;c.</p>
+            <p n="9">9. If Thoſe Three, which we have ſtiled <hi>Properties,</hi> be capable to advance their ſubſtance to the character of PERSONS, we may ſafely communicate with our <hi>Church,</hi> both in her <hi>Creeds,</hi> becauſe then they will be <hi>Three Perſons and One God;</hi> and in her <hi>Litany</hi> too, becauſe then, the <hi>Second and Third</hi> will not be either ſuch ſlight things in <hi>Them<g ref="char:EOLhyphen"/>ſelves,</hi> or ſo regardleſs of <hi>Us,</hi> as to be unworthy of our adorations.</p>
+            <p>This therefore muſt needs be worth our enquiry; wherein we may the better hope for ſatisfaction; becauſe it will not be matter of <hi>Diſcourſe,</hi> but <hi>Fact,</hi> which is leſs ſubject to Doubts and Objections.</p>
+            <p>
+               <hi>PLato</hi> and his followers ſaw ſo much of the <hi>inviſible things of God by the things which were made,</hi> as to diſcover that there muſt be <hi>One</hi> (and but <hi>One) Self exiſtent being,</hi> which muſt be <hi>Good, Wiſe</hi> and <hi>Powerful.</hi> Theſe <hi>Three Properties,</hi> they celebrated under the Common characters of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>Subſistence, Principles, Cauſes,</hi> &amp;c. under their Reſpective <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es of 1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Being, the Good</hi> &amp;c. 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the VVord or Reaſon</hi> &amp;c. 3. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Soul.</hi>
+            </p>
+            <p n="2">2. This plain truth they ſo ſublimed as to multiply Myſteries, Diffi<g ref="char:EOLhyphen"/>cult, if not altogether Impoſſible to be underſtood. For they ſtill believed the Unity of God, but ſo diſcourſed of the Three, that they ſeemed to make every one a ſeveral God: Inſomuch, that the Beſt and Wiſeſt of all heathen Princes M. <hi>Aur. Antoninus</hi> ſaid, <hi>I thank God that having ſuch a paſſion for Philoſophy, I did not fall into the hands of any Sophist, that I did not amuſe my ſelf in reading their Books, or anſwer the vain Subtilties of their Diſcourſes.</hi>
+            </p>
+            <p n="3">3. This <hi>Gnoſtick</hi> humour of the <hi>Sophists</hi> wrought in all ages: and <hi>Origen</hi> (thank him) plainly diſtinguiſheth the <hi>Goſpel</hi> into <hi>Senſible and
+<pb n="4" facs="tcp:105534:3"/>Intelectual;</hi> appropriating the <hi>Former</hi> to <hi>Children,</hi> and the <hi>Later</hi> to <hi>Adult</hi> and <hi>Exalted</hi> underſtandings. And another age (accounting it no leſs honourable for the <hi>Goſpel,</hi> to exceed the diſcoveries of <hi>Reaſon</hi> (even in <hi>Natural Theology</hi>) than for <hi>Themſelves</hi> to ſurmount the capaci<g ref="char:EOLhyphen"/>ties of the <hi>Vulgar</hi>) ſo diſguiſed the <hi>Doctrine of the Trinity,</hi> that as oc<g ref="char:EOLhyphen"/>caſions varied, they ſometimes Profeſſed, and ſometimes Denied it, to be the ſame with That of <hi>Plato.</hi>
+            </p>
+            <p n="4">4. The Conſequents were Lamentable, <hi>Religion</hi> was degraded from a reformer of <hi>Manners</hi> to a refiner of <hi>VVits,</hi> and filled the <hi>Chriſtian</hi> world with <hi>Debauches and Diſputes.</hi>
+            </p>
+            <p n="5">5. The Firſt moſt Cruel and moſt Durable contention was That with <hi>Arius,</hi> which was not ended when the <hi>Catholicks</hi> fell into a controverſie between the <hi>Greeks and Latines,</hi> concerning the title of the <hi>Three.</hi> The <hi>Greeks</hi> would call them <hi>Subſiſtences:</hi> This the <hi>Latines</hi> thought too much, and would not allow them to be more than PERSONS, And <hi>Greg. Naz.</hi> celebrateth it, as one of <hi>Athanaſius</hi>'s beſt performances, that he indulged to both parties the uſe of their own expreſſions.</p>
+            <p n="6">6. The <hi>Greeks</hi> therefore kept poſſeſſion of their <hi>Platonick</hi> word, <hi>Subſistences,</hi> which being not Claſſical, needed to be explained. The moſt <hi>Authentick</hi> paraphraſe was That of <hi>Juſtinian and his Council,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. So the <hi>Geeeks</hi> never acknowledged the <hi>Trinity</hi> to be more than <hi>Three Properties in the Godhead.</hi>
+            </p>
+            <p n="7">7. On the other ſide, what the <hi>Latines</hi> meant by their word PERSON, St. <hi>Ang.</hi> hath given us a full account, not of his <hi>Own private</hi> thoughts, but of the general ſence of the <hi>Christian VVorld.</hi> The word PERSON he ſaith was taken up for want of a better, that might im<g ref="char:EOLhyphen"/>port <hi>Tria quaedam,</hi> Three <hi>Somewhats,</hi> of which he could not give a clear Idea. And at the foot of the account we have this memorable <hi>Summum total Aeternus, Sapiens, Beatus, haec tria ſunt Trinitas, quae ap<g ref="char:EOLhyphen"/>pellatur Deus.</hi> Thus far we meet no other <hi>Trinity,</hi> but of <hi>Properties in God.</hi>
+            </p>
+            <p n="8">8. But when <hi>Religion</hi> fell under the empire of the <hi>Schoolmen,</hi> the poor word PERSON was ſo racked, as to exceed <hi>Both extreams.</hi> When they will talk <hi>Mysteriouſly</hi> they ſo diſcourſe, that if I can reconcile their <hi>Trinity of Perſons with the Unity of God,</hi> I muſt be obliged to them for their nice inſtructions; if I cannot, I muſt reverence their more exalted apprehenſions: Yet when they ſpeak to a learned reader, they debaſe the word ſo low, that it ſhall not ſignifie ſo much as a <hi>Porperty.</hi> The truth hereof is (perhaps) all that we can learn in the writings of the two angry Doctors, who with equal confidence vouch the ſame authority of the Schools; the one for three <hi>Spirits,</hi> the other for three <hi>Modes</hi> and Relations.</p>
+            <pb n="5" facs="tcp:105534:3"/>
+            <p n="9">9. All agree in This for the <hi>Definition</hi> of a <hi>Perſon,</hi> that it is an <hi>In<g ref="char:EOLhyphen"/>tellectual Subſtance differing from all others.</hi> By the General, but moſt Irregular interpretation of This <hi>Definition,</hi> the Later half is utterly idle. For if every <hi>ſingle Subſtance</hi> already differ from all others by its mere <hi>Exiſtence;</hi> what means the addition of thoſe needleſs words? It is intolerable in <hi>Definitions,</hi> to have the one half impertinent: but ſo it muſt be, if an <hi>Intellectual Subſtance</hi> and a <hi>Perſon</hi> be terms <hi>Aequipollent</hi> and <hi>Convertible,</hi> as ſome contend.</p>
+            <p n="10">10. <hi>Common practice</hi> ſupplies this defect. For it tells us that one <hi>Per<g ref="char:EOLhyphen"/>ſon</hi> differeth from all others, not by his ſingle <hi>Existence,</hi> but by ſome <hi>proper marks,</hi> peculiar to himſelf: And ſince one man may wear many ſuch <hi>Characters,</hi> he may thereby ſuſtein as many <hi>Perſons.</hi> Thus the great oracle of language ſaith of himſelf. <hi>I who am but One man, ſuſtein Three Perſons, mine own, that of an Accuſer, and that of a Judge;</hi> and a very late writer of <hi>Animadverſions on a Poſtſcript,</hi> &amp;c. makes his entry with ſuch a frump, as intends to Ridicule, but effectually Verifies the Doctrine. <hi>The Doctor</hi> (ſaith he) <hi>or Dean,</hi> or <hi>Defender (no matter which I name, for They Three are One)</hi> Are they ſo? then what can be anſwered to theſe queſtions? Is not the Doctor a Perſon? Is not the Dean, a Perſon? Is not the Defender a Perſon? If the ſame Man may be Three Perſons, Why may not the ſame <hi>God?</hi>
+            </p>
+            <p n="11">11. The angry Doctor, that ſo frequently complaineth of the <hi>Church of England,</hi> for not engaging in his quarrel; and in every page plead<g ref="char:EOLhyphen"/>eth the <hi>Church, the Church,</hi> confeſſeth that his <hi>Hypotheſis</hi> appeared firſt in the eighth or ninth Century: What a miſery is it that we have loſt ſo many of that <hi>Churches Doctrines!</hi> The <hi>Myſtery of Tranſubstanti<g ref="char:EOLhyphen"/>ation! the worſhip of Images!</hi> the <hi>fires of Purgatory</hi> &amp;c.</p>
+            <p n="12">12. God be bleſſed, <hi>Our Church</hi> is reformed both from the <hi>Corrupt Doctrines,</hi> and <hi>Cruel Spirit</hi> of the eighth and nineth <hi>Century.</hi> In our preſent queſtion, either ſhe ſits <hi>ſilent,</hi> or inſinuates the ſame ſence which we have heard from St <hi>Augustin.</hi> For in his <hi>First Article,</hi> wherein ſhe ſtabliſheth the <hi>Unity of God and Trinity of Perſons,</hi> ſhe nameth the Three comprehenſive Attributes, <hi>Goodneſs, VViſdom, and Power.</hi>
+            </p>
+            <p>How this is to be underſtood, I appeal to the <hi>Church of France,</hi> which in the Sixth Art. of her Confeſſion <hi>de foy,</hi> ſaith, <hi>This Holy Scripture teacheth us, that in this One and Simple Divine Eſſence which we have confeſſed, there are Three Perſons; the Father, the Son, and the Holy Ghost. The Father the First Cauſe, Principle and Origin of all things. The Son, his Eternal Word and Wiſdom. The Holy Ghost, his Vertue, Power, and Efficacy.</hi>
+            </p>
+            <p n="13">13. The Holy Scripture, by a <hi>Proſopopaeia,</hi> proper to the Time and Place wherein it was writen, repreſenteth the divine <hi>Properties,</hi> as
+<pb n="6" facs="tcp:105534:4"/>Speaking and Acting in the manner of <hi>Compleat, Intelligent Subſtances.</hi> Concerning the Second Perſon this is plain Fact in the Firſt, eighth, and nineth Chapters of the <hi>Proverbs</hi> of <hi>Solomon:</hi> the Third is no otherwiſe a <hi>Perſon,</hi> than the Second; So the <hi>Conſequence</hi> is indifferent to <hi>Both.</hi>
+            </p>
+            <p>The ſum therefore is This, that as the former Claſſis of <hi>Propoſitions</hi> prove by plain Reaſon, that every Divine Property is God, ſo doth matter of <hi>Fact</hi> prove, that no <hi>Authority, Humane or Divine,</hi> obligeth us to believe more than this, that the <hi>Divine Trinity of Perſons</hi> is only a <hi>Trinity of Properties.</hi>
+            </p>
+            <p>I envy not thoſe <hi>Eagles,</hi> that can ſoar higher, and ſee more: my ſim<g ref="char:EOLhyphen"/>ple Ambition pretendeth to no more than is neceſſary to reconcile the <hi>Word of God</hi> in <hi>Scripture,</hi> with the <hi>Dictates of Reaſon;</hi> and the peace of my <hi>Conſcience,</hi> with Conformity to the <hi>Church;</hi> which having obtain'd by the help of what I have ſaid, I deſire to communicate as far I can to thoſe that want it: To the <hi>Socinians</hi> eſpecially, of whom I have ſo good an Opinion (Errors excepted) that I ſhould look upon it as a great Bleſſing, if I might help towards their Peace with our Church.</p>
+            <p>BUT there is another, and greater Obſtacle; and I muſt either leave my work half undone, or ſo repreſent the other <hi>Doctrine</hi> of the <hi>Incarnation,</hi> that Rational and Conſcientious Men may apprehend it lawful to communicate with us, as well in our <hi>Liturgy,</hi> as our <hi>Creed.</hi> I therefore think neceſſary to add ſome Propoſitions concern<g ref="char:EOLhyphen"/>ing that Article alſo.</p>
+            <p n="1">1. Who-ever believeth J. C. to be his <hi>Saviour,</hi> muſt needs think himſelf obliged to pay him all the honour that he can think conſiſtent with <hi>Scripture</hi> and <hi>Reaſon.</hi>
+            </p>
+            <p n="2">2. The <hi>Scripture</hi> declareth J. C. to be as much <hi>God,</hi> as is poſſible for a <hi>Man</hi> to be. This appears from many Texts, particularly from the Words of St. <hi>Paul,</hi> who ſaith, that <hi>in him dwelleth all fulneſs of the Godhead bodily;</hi> and from thoſe of our <hi>Saviour</hi> himſelf, who ſaith, <hi>God gave not the ſpirit by meaſure unto him;</hi> which import no leſs, than that <hi>God</hi> gave him as much <hi>Divinity</hi> as poſſibly he could.</p>
+            <p n="3">3. To determine how much <hi>God Can</hi> do, is more derogatory to his <hi>honour,</hi> than to ſay he <hi>Hath</hi> done more than he really hath done: For the later is only an innocent <hi>Error</hi> in matter of <hi>Fact;</hi> but the other, is a ſawcy confinement of <hi>God's Omnipotence.</hi>
+            </p>
+            <p n="4">4. It is not impoſſible, or ſo much as difficult, to apprehend, that the <hi>Wiſdom of God</hi> (which implieth his <hi>Purity</hi>) ſhould unite it ſelf to a Man without <hi>Self-Exiſtence and Omnipotency:</hi> and ſo the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may be <hi>in<g ref="char:EOLhyphen"/>carnate</hi> without the joint Incarnation of the <hi>Father and the H. G.</hi>
+            </p>
+            <p n="5">5. If we believe not <hi>Chriſt</hi> to be <hi>God Eternal:</hi> yet if we believe him <hi>Deified</hi> in <hi>Time;</hi> whether we compute that Time from his <hi>Conception</hi> in
+<pb n="7" facs="tcp:105534:4"/>the Womb of the <hi>Bleſſed Virgin</hi> (as ſome) or from his <hi>exaltation to the Right Hand of God</hi> (as others.) This will juſtifie our <hi>Adoration</hi> of him: and ſince <hi>Practice</hi> is the only end of <hi>Speculation,</hi> we need not doubt, but our Gracious Redeemer will allow for our innocent failings in the <hi>Later,</hi> when we pay him his due in the <hi>Former.</hi>
+            </p>
+            <p n="6">6. Though we adore him under the Character of the <hi>Son of David,</hi> yet we thereby intend the Perſon that is the <hi>Son of God,</hi> and our wor<g ref="char:EOLhyphen"/>ſhip is properly directed to his <hi>Divinity,</hi> ſince That only can Hear and Grant Prayer.</p>
+            <p n="7">7. If theſe Propoſitions be true, then is there no danger <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> commu<g ref="char:EOLhyphen"/>nicating with our <hi>Church,</hi> both in <hi>Creed</hi> and <hi>Liturgy;</hi> but in depart<g ref="char:EOLhyphen"/>ing from her, there is double danger of two great Sins, <hi>viz. Schiſm and Sacriledge.</hi>
+            </p>
+            <p>WHat I have thus ſaid, I hope may convince the <hi>Socinians,</hi> that they may more ſafely <hi>Communicate</hi> with our <hi>Church,</hi> than trouble her <hi>Peace:</hi> and I need not ſpeak of the other comprehenſive ſide of the word to ſhew how <hi>Two Natures</hi> may make <hi>One [Perſon]</hi> Both becauſe That Notion hath no place in the <hi>Devotions</hi> of our <hi>Church,</hi> and becauſe it is exemplified in a paper very lately publiſhed in form of a <hi>Letter</hi> directed to the <hi>Clergy of both Univerſities,</hi> as to One Perſon, though the Author cannot imagin they ſhould all meet in a conſult: nor doth one of the Univerſities ever anſwer the Books which they diſlike, but by a <hi>decretum to burn them.</hi> He therefore muſt write to them, not <hi>Conjunctim,</hi> but <hi>Diviſim:</hi> and if ſo, muſt not take unkind<g ref="char:EOLhyphen"/>ly if any <hi>One</hi> anſwer the <hi>Requeſt</hi> (ſhall I call it or <hi>Challenge</hi>) that is made to <hi>All.</hi>
+            </p>
+            <p>This I ſpeak becauſe I have lately learned, that ſome men call it <hi>ſpitting it in their faces,</hi> if a man write againſt their opinions.</p>
+            <p>
+               <hi>And Dr</hi> S—th <hi>employeth his talent of ſcolding at me for ſo doings; and ag<g ref="char:EOLhyphen"/>gravates the crime, as therefore intolerable, becauſe I never had any converſation with him; wherein he hath done himſelf the honor to profeſs that he wrote a<g ref="char:EOLhyphen"/>gainſt Dr</hi> Sherlock, <hi>not out of</hi> love <hi>to Truth, but Malice to</hi> him.</p>
+            <p>
+               <hi>He is (indeed) ſo civil to my</hi> Hypotheſis, <hi>as not to give it one hard word; and I ſhall this way alſo oppoſe him: for I ſhall not meddle with his</hi> Perſon; <hi>but againſt his</hi> Hypotheſis, <hi>ſhall put this caſe, A</hi> Doctor, <hi>a</hi> Prebend <hi>of</hi> W. a Canon <hi>of</hi> C. C. a Rector <hi>of</hi> I. <hi>and one or more</hi> Sine cura's <hi>it</hi> W. <hi>and a</hi> Landed man, <hi>are every one a</hi> Diſtinct Perſon; <hi>yet All meet in one</hi> Man: <hi>ſuppoſe now it were poſſible for me to make All theſe</hi> Perſonalities <hi>as uſeleſs to him, as ſo many</hi> Modes, <hi>or</hi> Internal Relations; <hi>would not this more justly provoke his rage, than the harmleſs writing againſt his Opinion? Yet this is the conſequence of his</hi> Hypotheſis: <hi>For the notion of a mere</hi> Internal Relation, <hi>depriveth every</hi> Perſon <hi>of his</hi> Honour, <hi>by depriving the</hi> World <hi>of the</hi> Inte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <pb n="8" facs="tcp:105534:5"/>
+            <p>
+               <hi>The</hi> Socinians <hi>cannot object to me the ſame heavy provocation: I have con<g ref="char:EOLhyphen"/>verſed with ſome of the chief of them (and that, very amicably) whom I be<g ref="char:EOLhyphen"/>lieve to be excellent perſons, and by what I ſee in them. I judge of the Genera<g ref="char:EOLhyphen"/>lity of the Party: This I take to be ſo far from a Reſtraint upon me, that it is one of the reaſons which induce me to endeavour to make them like my ſelf; and in order thereto, if they be ſincere (as I hope) I pray them to practice all their Objections upon their own</hi> Trinity of Humane Perſons: <hi>I ſhall here give them a ſhort Specimen of it, in anſwer to that Paragraph in the now mentioned Letter, which is the firſt after the Introduction, and containeth the</hi> Subſtance <hi>of the whole, that is afterward objected againſt our</hi> Hypotheſis.</p>
+            <p>
+               <hi>In that Entry upon the diſpute, (after ſome lines caſt away upon proving the</hi> Abſurdity <hi>of contending about the meaning of the word PERSON by its place in the Creed, which proveth its</hi> Neceſſity) <hi>the Author proceedeth to ſay that</hi> Thoſe that pay the higheſt adoration to a Perſon have no different Ideas of God and a Divine Perſon. <hi>To this our</hi> Tally <hi>anſwereth, that thoſe who honor Dr</hi> Sherlock <hi>moſt, have an</hi> Idea <hi>of</hi> Will. Sherlock, <hi>different from the</hi> Ideas <hi>of Dr,</hi> Dean, and Defender. <hi>And for a fuller and more formal an<g ref="char:EOLhyphen"/>ſwer I add, that the</hi> Idea <hi>may be</hi> Adaequate, <hi>and ſo it will comprehend the whole of him; or</hi> Inadaequate, <hi>and ſo it may be reſtrained to any</hi> One <hi>of his Characters: So the</hi> Adaequate Idea of God <hi>comprehendeth</hi> All Divine Per<g ref="char:EOLhyphen"/>fections; <hi>but by an</hi> Inadaequate Idea, <hi>That Perfection of</hi> God <hi>may be con<g ref="char:EOLhyphen"/>templated in any</hi> Divine Property, <hi>which conſtitutes a</hi> Divine Perſon.</p>
+            <p>To frame another Idea of God, <hi>(ſaith the Letter)</hi> it muſt be lower, and conſequently Blaſphemy againſt God. <hi>No (ſay I) it is no robbery to the</hi> Dean, <hi>to ſpeak of him as</hi> Doctor, <hi>if we leave him all the dues of his</hi> Deanry: <hi>Nor is it Blaſphemy to conſider any one of</hi> God's Properties <hi>by way of mere</hi> Abſtraction, <hi>while we</hi> Deny <hi>him not the Honour due to him from all the reſt.</hi>
+            </p>
+            <p>In a word <hi>(ſaith the Letter)</hi> if a Perſon be God, there can be no real difference or diſtinction between them, for no Being can be but it ſelf; it is the ſame with it ſelf, and diſtinct and different from all other: <hi>Yes, Dr.</hi> Sherlock <hi>may be the ſame</hi> Individual Man; <hi>though dif<g ref="char:EOLhyphen"/>ferent from himſelf, with reſpect to his</hi> Different Characters; <hi>ſo</hi> God, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>By this Specimen it appears eaſie to go through every clauſe of the Letter that concerns our</hi> Hypotheſis. <hi>My great fear is, that the</hi> Socinians <hi>Confi<g ref="char:EOLhyphen"/>dence of</hi> Victory <hi>will make them reject all terms of</hi> Accommodation: <hi>Yet will not my labour be quite loſt with Him, who accepteth</hi> Sincere, <hi>though</hi> Succeſleſs <hi>Endeavours, and hath ſaid,</hi> Bleſſed are the Peace-makers.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105534:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
